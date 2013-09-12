@@ -1,4 +1,0 @@
-forever
-=======
-
-design pattern
