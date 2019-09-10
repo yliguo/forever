@@ -1,5 +1,5 @@
-This is our project 1 /// New input from Windows
+This is our project 1
 
-Welcome
+Welcome /// changed by Linux
 
 Wel done! /// Code added by Linux
